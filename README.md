@@ -1,6 +1,6 @@
 # Project Title
 
-One Paragraph of project description goes here.
+The python file provided demonstrates how to made a demo code for coverting Fahrenheit to Celsius using "def" and siomply math equations.
 
 ## Getting Started
 
